@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fblog.marlonhenq.dev%2Fposts%2F4%2Fgit-e-github%3A-o-que-sao-e-qual-a-diferenca.php&psig=AOvVaw3HDoP3Qufr_xikyq04EhIU&ust=1733538081410000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLiVqeWKkooDFQAAAAAdAAAAABAJ">
+
 
 
 
