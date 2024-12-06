@@ -49,13 +49,15 @@
 ---
 
 ## 🌐 Redes Sociais  
-
+https://www.linkedin.com/in/pedroomna/
 Conecte-se comigo nas minhas redes sociais:  
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ludivino-jose-da-silva-962120256?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
-- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/https://www.instagram.com/itspedro27/_/profilecard/?igsh=Y3RtY3g3ZHZhOGFz)  
-- [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/pedro.omna?mibextid=ZbWKwL)
-
+<div> 
+  <a href="https://www.instagram.com/itspedro27/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:pedrodacostaalmeida853@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/pedroomna/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.facebook.com/rodrigues.deorigem/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a> 
+</div>
 
 ---
 
