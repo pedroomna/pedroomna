@@ -21,8 +21,8 @@
 - 🏢 EJEC (Empresa Júnior de Engenharia de Computação da UFSC)  
 
 ### 🌟 Habilidades  
-- *Soft Skills:* Comunicação, Organização, Trabalho em Equipe, Criatividade, Proatividade, Resilência, Flexibilidade, Empatia, Ética profissional
-- *Hard Skills:*  
+- Soft Skills: Comunicação, Organização, Trabalho em Equipe, Criatividade, Proatividade, Resilência, Flexibilidade, Empatia, Ética profissional
+- Hard Skills: 
   - Linguagens de Programação: C, Python, JavaScript, HTML & CSS.
  <div style="display: inline_block"><br>
   <img align="center" alt="Loid-HTML" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -34,7 +34,7 @@
 
 
 ### 🌟 Habilidades de Design  
-- *Ferramentas:* Corel Draw, Canva, Photoshop, Vsdc-Video, Wondershare Filmora.
+- Ferramentas: Corel Draw, Canva, Photoshop, Vsdc-Video, Wondershare Filmora.
 
 ---
 
