@@ -11,14 +11,14 @@
 
 ---
 
-## 🚀 Sobre Mim  
+## 👨🏿‍🦰 Sobre Mim  
 
 "Olá! Sou *Pedro da Costa Omna Pp*, apaixonado pelo impacto transformador da tecnologia. Com experiência em manutenção repentina dos computadores, desenvolvimento de software e trabalho em equipe, dedico-me a projetos e plataformas Digitais colaborativos que fazem a diferença."
 
-- 💻 *PORTAL GOSPEL GUINEENSE* 
-- 💻 *KABU DISITI* 
-- 💻 *TV GOSPEL-GB*  
-- 🏢 *EJEC* (Empresa Júnior de Engenharia de Computação da UFSC)  
+- 💻 PORTAL GOSPEL GUINEENSE 
+- 💻 KABU DISITI 
+- 💻 TV GOSPEL-GB 
+- 🏢 EJEC (Empresa Júnior de Engenharia de Computação da UFSC)  
 
 ### 🌟 Habilidades  
 - *Soft Skills:* Comunicação, Organização, Trabalho em Equipe, Criatividade, Proatividade, Resilência, Flexibilidade, Empatia, Ética profissional
