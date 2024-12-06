@@ -69,7 +69,7 @@ Conecte-se comigo nas minhas redes sociais:
 
 ---
 
-## ✨ Mensagem Inspiradora  
+## ✨ Mensagem Motivadora
 *"O Segredo de um vencedor é acreditar na vitória e destruir as bareiras com a fé."* 🔥  
 
 ---
