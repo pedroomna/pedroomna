@@ -2,7 +2,7 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=26BFBD&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Olá!+meu+nome+é+Pedro+Omna;&center=true&vCenter=true&width=1000&color=7388EF&size=35)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Olá!+meu+nome+é+Pedro+Omna;Estudo+Engenharia+de+Computação-UFSC;Residente+em+Flrianópolis-SC&center=true&vCenter=true&width=1000&color=26BFBD&size=35)](https://git.io/typing-svg)
 ### 🛠 Engenharia de Computação | Programação | Design Gráfico | Desenhista | Inteligência Artificial  
 
 🎓 Estudante de *Engenharia de Computação* na *Universidade Federal de Santa Catarina (UFSC)*.  
@@ -130,6 +130,11 @@ Conecte-se comigo nas minhas redes sociais:
 
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=pedroomna&layout=compact&theme=radical)  
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=pedroomna&show_icons=true&theme=radical)  
+
+<p align="left">
+<img src="https://github-profile-trophy.vercel.app/?username=pedroomna&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h-15" />
+</p
+
 
 ---
 
