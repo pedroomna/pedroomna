@@ -2,7 +2,7 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=26BFBD&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Olá!+meu+nome+é+Pedro+Omna;Estudo+Engenharia+de+Computação-UFSC;Residente+em+Flrianópolis-SC&center=true&vCenter=true&width=1000&color=26BFBD&size=35)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Olá!+meu+nome+é+Pedro+Omna;Estudo+Engenharia+de+Computação-UFSC;Residente+em+Florianópolis-SC&center=true&vCenter=true&width=1000&color=26BFBD&size=35)](https://git.io/typing-svg)
 ### 🛠 Engenharia de Computação | Programação | Design Gráfico | Desenhista | Inteligência Artificial  
 
 🎓 Estudante de *Engenharia de Computação* na *Universidade Federal de Santa Catarina (UFSC)*.  
@@ -116,7 +116,7 @@ Conecte-se comigo nas minhas redes sociais:
 ## 🏆 Destaques  
 
 - "Participei de competições internacionais de robótica, sempre buscando excelência e inovação."
-- Membro da *EJEC*.  
+- Diretor de Gestão de Pessoas na  *EJEC*.  
 - Responsável da *Mídia* da Juventude Evangélica Guineense na Diáspora
 
 ---
