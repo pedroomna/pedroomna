@@ -8,7 +8,7 @@
 Sou um Pedro Omna, **desenvolvedor Front End em formação** e **criador de sites aplicativos**, apaixonado por criar **interfaces modernas, responsivas e otimizadas** que proporcionam excelente experiência ao usuário.
 
 📍 **Localização:** Araranguá, SC - UFSC  
-🎓 **Formação:** Engenharia de Computação (UFSC) | Desenvolvimento de Sistemas (SENAC)  
+🎓 **Formação:** Engenharia de Computação (UFSC) | 
 🎨 **Especialidade:** UI/UX, Design Responsivo, JavaScript Moderno
 
 ### 💡 O que busco
@@ -26,7 +26,7 @@ Sou um Pedro Omna, **desenvolvedor Front End em formação** e **criador de site
 
 ### 🔧 Ferramentas & Frameworks
 
-[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) *(Estudando)* [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) *(Iniciante)* [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) [![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white) [![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) [![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white) [![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 ### 💻 Programação & Banco de Dados
 
@@ -36,10 +36,9 @@ Sou um Pedro Omna, **desenvolvedor Front End em formação** e **criador de site
 
 ## 📊 GitHub Stats
 
-![victor-iofna-caba's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Iofna&show_icons=true&theme=dracula&hide_border=true&count_private=true)
+![Estatísticas do Pedro Omna](https://github-readme-stats.vercel.app/api?username=pedroomnaO&show_icons=true&theme=dracula&hide_border=true&count_private=true)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Iofna&layout=compact&theme=dracula&hide_border=true)
-
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=pedroomnaO&layout=compact&theme=dracula&hide_border=true)
 ---
 
 ## 📜 Formação & Certificações
@@ -47,7 +46,6 @@ Sou um Pedro Omna, **desenvolvedor Front End em formação** e **criador de site
 ### 🎓 Educação
 
 - **Engenharia de Computação** - UFSC (2023-2029)
-- **Desenvolvimento de Sistemas** - SENAC (2024-2026) ✅ Em andamento
 - **Automação Industrial** - IFSC (2024-2026) ✅ Em andamento
 
 ### 👨‍💻 Cursos Realizados
