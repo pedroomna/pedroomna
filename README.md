@@ -57,14 +57,7 @@ Sou um Pedro Omna, **desenvolvedor Front End em formação** e **criador de site
 
 ---
 
-## 💼 Experiência Profissional
 
-### 🛫 Coordenador de Viagens (Atual)
-
-- Gestão de reservas e itinerários para clientes
-- Organização de pacotes turísticos
-- Comunicação efetiva com stakeholders
-- Experiência em CRM e sistemas de booking
 
 ### 🎨 Designer Gráfico (Freelancer)
 
