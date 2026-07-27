@@ -17,7 +17,6 @@
 
 </div>
 
-## 🎯 Sobre Mim
 
 ### Biografia Profissional 
 Sou **Pedro Omna**, desenvolvedor Front-End em formação e criador de interfaces e aplicações web, com sólida base acadêmica em **Engenharia de Computação na UFSC** e **Automação Industrial no IFSC**. Apaixonado por criar experiências modernas, responsivas e otimizadas que proporcionam excelente usabilidade ao usuário. Combino competências técnicas em desenvolvimento web, design gráfico de interfaces e engenharia de software para entregar soluções eficientes e de alto padrão.
