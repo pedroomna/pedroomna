@@ -5,24 +5,40 @@
 
 ## 🎯 Sobre Mim
 
-Sou um Pedro Omna, **desenvolvedor Front End em formação** e **criador de sites aplicativos**, apaixonado por criar **interfaces modernas, responsivas e otimizadas** que proporcionam excelente experiência ao usuário.
+### Biografia Profissional Focada em Engenharia
+Sou **Pedro da Costa Almeida Omna**, desenvolvedor Front-End em formação e criador de interfaces e aplicações web, com sólida base acadêmica em **Engenharia de Computação na UFSC** e **Automação Industrial no IFSC**. Apaixonado por criar experiências modernas, responsivas e otimizadas que proporcionam excelente usabilidade ao usuário. Combino competências técnicas em desenvolvimento web, design gráfico de interfaces e engenharia de software para entregar soluções eficientes e de alto padrão.
 
-📍 **Localização:** Araranguá, SC - UFSC  
-🎓 **Formação:** Engenharia de Computação (UFSC) | 
-🎨 **Especialidade:** UI/UX, Design Responsivo, JavaScript Moderno
+* **Desenvolvimento Front-End & Interfaces:** Domínio de HTML5, CSS3, JavaScript moderno, React e TypeScript aplicados à construção de aplicações responsivas e dinâmicas.
+* **Excelência em Engenharia de Software:** Experiência com projetos acadêmicos e corporativos estruturados com POO em Java, C++ e Python, além de modelagem de banco de dados MySQL.
+* **Design Gráfico & UI/UX:** Utilização avançada de ferramentas como Figma, Adobe Photoshop e Canva para estruturação de layouts e prototipagem visual.
+* **Mentalidade de Engenharia:** Foco em Clean Code, versionamento eficiente com Git/GitHub e metodologias ágeis voltadas para a resolução de problemas.
 
-### 💡 O que busco
+> **Aberto a:** Oportunidades de estágio ou vaga júnior em desenvolvimento front-end, projetos de arquitetura web e colaborações em tecnologia.
 
-- 🚀 Oportunidades de estágio/junior em desenvolvimento front-end
-- 📚 Aprender com profissionais experientes
-- 🤝 Contribuir em projetos inovadores
-- 🌱 Crescimento contínuo em tecnologia
+---
+
+## Tech Stack Section
+
+<div align="center">
+
+### Linguagens
+<img src="https://skillicons.dev/icons?i=js,ts,python,cpp,java,html,css,bash&perline=8" />
+
+### Frontend & UI
+<img src="https://skillicons.dev/icons?i=react,next,vite,tailwind,redux,styledcomponents,mui,figma&perline=8" />
+
+### Backend & Bancos de Dados
+<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb,redis,prisma,graphql,fastapi&perline=8" />
+
+### Nuvem, DevOps & Ferramentas
+<img src="https://skillicons.dev/icons?i=aws,docker,git,githubactions,linux,nginx,vscode,photoshop&perline=8" />
+
+</div>
+
+---
 
 ## 🛠️ Stack Tecnológico
 
-### 🎯 Front End Development
-
-[![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white) [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) [![Responsive](https://img.shields.io/badge/Responsive%20Design-FF6B6B?style=for-the-badge&logo=figma&logoColor=white)](https://img.shields.io/badge/Responsive%20Design-FF6B6B?style=for-the-badge&logo=figma&logoColor=white)
 
 ### 🔧 Ferramentas & Frameworks
 
@@ -106,9 +122,9 @@ Sou um Pedro Omna, **desenvolvedor Front End em formação** e **criador de site
 - 📘 APIs REST e GraphQL
 - 📘 UX/UI Avançado
 
----
 
-## 📞 Vamos Nos Conectar?
+
+
 
 
 
