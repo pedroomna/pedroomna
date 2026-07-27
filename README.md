@@ -38,7 +38,6 @@ Sou um Pedro Omna, **desenvolvedor Front End em formação** e **criador de site
 
 ![Estatísticas do Pedro Omna](https://github-readme-stats.vercel.app/api?username=pedroomnaO&show_icons=true&theme=dracula&hide_border=true&count_private=true)
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=pedroomnaO&layout=compact&theme=dracula&hide_border=true)
 ---
 
 ## 📜 Formação & Certificações
