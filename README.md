@@ -68,16 +68,13 @@ Sou **Pedro Omna**, desenvolvedor Front-End em formação e criador de interface
 
 <div align="center">
 
-  <!-- Card de Estatísticas Gerais -->
   <img src="https://github-readme-stats.vercel.app/api?username=pedroomna&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="Estatísticas do Pedro Omna" />
 
   <br><br>
 
-  <!-- Card de Linguagens Mais Usadas -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroomna&layout=compact&theme=dracula&hide_border=true" alt="Linguagens Mais Usadas" />
 
 </div>
-
 
 ### 🎓 Cursando
 
