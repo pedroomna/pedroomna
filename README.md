@@ -152,12 +152,13 @@ Sou **Pedro Omna**, desenvolvedor Front-End em formação e criador de interface
 
 
 
+## 📞 Vamos Nos Conectar?
 
 
-
-
----
-
+[![EMAIL PESSOAL](https://img.shields.io/badge/EMAIL%20PESSOAL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedrodacostaalmeida853@gmail.com)
+[![LINKEDIN](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedroomna/)
+[![INSTAGRAM](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/itspedro27/)
+[![WHATSAPP](https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/558596723691)
 
 
 
