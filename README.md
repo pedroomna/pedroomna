@@ -142,16 +142,17 @@ Sou **Pedro Omna**, desenvolvedor Front-End em formação e criador de interface
 
 ## 🎯 Objetivos de Aprendizado
 
-- ✅ Dominar HTML/CSS/JavaScript
-- 📘 React.js e TypeScript (em progresso)
-- 📘 Next.js e frameworks modernos
-- 📘 Testes unitários e E2E
-- 📘 APIs REST e GraphQL
-- 📘 UX/UI Avançado
+| Tecnologia / Área | Status |
+| :--- | :--- |
+| **HTML / CSS / JavaScript** | 🟢 Dominado |
+| **React.js & TypeScript** | 🔄 Em Progresso |
+| **Next.js & Frameworks Modernos** | ⏳ Na Fila |
+| **Testes Unitários & E2E** | ⏳ Na Fila |
+| **APIs REST & GraphQL** | ⏳ Na Fila |
 
 
 
-## 📞 Vamos Nos Conectar?
+## 📞 Vamos Nos Conversar?
 
 
 [![EMAIL PESSOAL](https://img.shields.io/badge/EMAIL%20PESSOAL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedrodacostaalmeida853@gmail.com)
