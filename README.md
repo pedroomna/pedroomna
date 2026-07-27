@@ -1,12 +1,32 @@
+
+
+
+
+
+
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Sou+Pedro+Omna;Estudante+de+Engenharia+de+Computação+UFSC;Residente+em+Araranguá-SC;Seja+Bem-Vindo/a!)](https://readme-typing-svg.herokuapp.com?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Sou+Pedro+Omna;Estudante+de+Engenharia+de+Computação+UFSC;Residente+em+Araranguá-SC;Seja+Bem-Vindo/a!)
+<div align="center">
 
+
+  <img src="https://img.shields.io/badge/Engenharia%20de%20Computação-UFSC-100000?style=for-the-badge&color=240046&logo=graduation-dot-com&logoColor=9D4EDD" alt="UFSC">
+  <img src="https://img.shields.io/badge/Automação%20Industrial-IFSC-100000?style=for-the-badge&color=240046&logo=industry&logoColor=9D4EDD" alt="IFSC">
+  <img src="https://img.shields.io/badge/Localização-Araranguá%2C%20SC-100000?style=for-the-badge&color=240046&logo=googlemaps&logoColor=9D4EDD" alt="Localização">
+</p>
+
+
+
+
+
+
+</div>
 
 ## 🎯 Sobre Mim
 
 ### Biografia Profissional Focada em Engenharia
-Sou **Pedro da Costa Almeida Omna**, desenvolvedor Front-End em formação e criador de interfaces e aplicações web, com sólida base acadêmica em **Engenharia de Computação na UFSC** e **Automação Industrial no IFSC**. Apaixonado por criar experiências modernas, responsivas e otimizadas que proporcionam excelente usabilidade ao usuário. Combino competências técnicas em desenvolvimento web, design gráfico de interfaces e engenharia de software para entregar soluções eficientes e de alto padrão.
+Sou **Pedro Omna**, desenvolvedor Front-End em formação e criador de interfaces e aplicações web, com sólida base acadêmica em **Engenharia de Computação na UFSC** e **Automação Industrial no IFSC**. Apaixonado por criar experiências modernas, responsivas e otimizadas que proporcionam excelente usabilidade ao usuário. Combino competências técnicas em desenvolvimento web, design gráfico de interfaces e engenharia de software para entregar soluções eficientes e de alto padrão.
 
 * **Desenvolvimento Front-End & Interfaces:** Domínio de HTML5, CSS3, JavaScript moderno, React e TypeScript aplicados à construção de aplicações responsivas e dinâmicas.
 * **Excelência em Engenharia de Software:** Experiência com projetos acadêmicos e corporativos estruturados com POO em Java, C++ e Python, além de modelagem de banco de dados MySQL.
@@ -60,15 +80,25 @@ Sou **Pedro da Costa Almeida Omna**, desenvolvedor Front-End em formação e cri
 
 ### 🎓 Educação
 
-- **Engenharia de Computação** - UFSC (2023-2029)
+- **Engenharia de Computação** - UFSC (2023-2029) Em andamento
 - **Automação Industrial** - IFSC (2024-2026) ✅ Em andamento
 
-### 👨‍💻 Cursos Realizados
 
-- HTML5, CSS3, MySQL, JavaScript - Curso em Vídeo
-- Desenvolvimento Web Completo - Múltiplas plataformas
-- Design Gráfico - Photoshop CC, Figma
-- C++, Java, Python - Programação Orientada a Objetos
+### 📚  Cursos Concluídos e  em Andamento
+
+| Nome do Curso | Local / Formato | Ano | Instituição |
+| :--- | :--- | :--- | :--- |
+| **Manutenção e Reparação dos PC´S** | Presencial (Guiné-Bissau) | 2023 — 2023 | SENAI |
+| **Mecánica Automatica** | Presencial / Técnico | 2019 — 2019 | SENAI |
+| **Formação em PHYTON** | Formação | 2023 | Totti-Diversidade |
+| **Formação em Full Stack** | Formação | 2025 | Totti-Diversidade |
+| **Formação em Marketing e Front-End** | Formação | 2026 | Totti-Diversidade |
+| **Formação em Engenharia de Prompt para Engenheiros** | Formação | 2026 | MBA USP Esalq |
+| **Formação em Machine Learning com PHYTON** | Formação | 2026 | MBA USP Esalq |
+| **Formação em Hacker do Bem** | Formação | 2026 | Ministério da Ciencia-BR- Em andamento |
+| **Formação em Análise de Dados** | Formação | 2026 | Totti-Diversidade- Em andamento |
+
+
 
 ---
 
@@ -88,7 +118,7 @@ Sou **Pedro da Costa Almeida Omna**, desenvolvedor Front-End em formação e cri
 
 ---
 
-## 💪 Competências Principais
+##  Competências Principais
 
 | Categoria | Habilidades |
 |-----------|-------------|
