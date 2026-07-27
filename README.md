@@ -1,10 +1,4 @@
 
-
-
-
-
-
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Sou+Pedro+Omna;Estudante+de+Engenharia+de+Computação+UFSC;Residente+em+Araranguá-SC;Seja+Bem-Vindo/a!)](https://readme-typing-svg.herokuapp.com?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Sou+Pedro+Omna;Estudante+de+Engenharia+de+Computação+UFSC;Residente+em+Araranguá-SC;Seja+Bem-Vindo/a!)
@@ -25,7 +19,7 @@
 
 ## 🎯 Sobre Mim
 
-### Biografia Profissional Focada em Engenharia
+### Biografia Profissional 
 Sou **Pedro Omna**, desenvolvedor Front-End em formação e criador de interfaces e aplicações web, com sólida base acadêmica em **Engenharia de Computação na UFSC** e **Automação Industrial no IFSC**. Apaixonado por criar experiências modernas, responsivas e otimizadas que proporcionam excelente usabilidade ao usuário. Combino competências técnicas em desenvolvimento web, design gráfico de interfaces e engenharia de software para entregar soluções eficientes e de alto padrão.
 
 * **Desenvolvimento Front-End & Interfaces:** Domínio de HTML5, CSS3, JavaScript moderno, React e TypeScript aplicados à construção de aplicações responsivas e dinâmicas.
@@ -77,9 +71,8 @@ Sou **Pedro Omna**, desenvolvedor Front-End em formação e criador de interface
 </div>
 ---
 
-## 📜 Formação & Certificações
 
-### 🎓 Educação
+### 🎓 Cursando
 
 - **Engenharia de Computação** - UFSC (2024-2028) Em andamento
 - **Automação Industrial** - IFSC (2024-2027) ✅ Em andamento
