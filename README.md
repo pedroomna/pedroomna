@@ -72,16 +72,17 @@ Sou **Pedro Omna**, desenvolvedor Front-End em formação e criador de interface
 
 ## 📊 GitHub Stats
 
-![Estatísticas do Pedro Omna](https://github-readme-stats.vercel.app/api?username=pedroomnaO&show_icons=true&theme=dracula&hide_border=true&count_private=true)
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pedroomna&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="Estatísticas do Pedro Omna" />
+</div>
 ---
 
 ## 📜 Formação & Certificações
 
 ### 🎓 Educação
 
-- **Engenharia de Computação** - UFSC (2023-2029) Em andamento
-- **Automação Industrial** - IFSC (2024-2026) ✅ Em andamento
+- **Engenharia de Computação** - UFSC (2024-2028) Em andamento
+- **Automação Industrial** - IFSC (2024-2027) ✅ Em andamento
 
 
 ### 📚  Cursos Concluídos e  em Andamento
